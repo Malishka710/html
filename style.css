@@ -1,0 +1,28 @@
+h1{
+    color:rgb(19, 85, 73);
+}
+
+.header{
+    background-color: rgb(248, 72, 166);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #f0a44e;
+    border-bottom: 8px solid #2ff089;
+    border-top: 8px solid #2ff089;
+    border-left: 8px solid #2ff089;
+    border-right: 8px solid #2ff089;
+}
